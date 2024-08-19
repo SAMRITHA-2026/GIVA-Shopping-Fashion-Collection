@@ -58,4 +58,8 @@ Stock Availability Alerts: If a user tries to purchase an out-of-stock item, the
 * Sigup Page
 ![image](https://github.com/user-attachments/assets/d2bf8d28-f3b3-4a4f-b5c7-dcaf64d08e51)
 
+* Add to Cart
+![image](https://github.com/user-attachments/assets/7504a75e-86fb-4c1b-91b2-2b2a9305afb8)
+
+
 
