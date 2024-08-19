@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - GIVA</title>
+    <link rel="icon" href="images/symbol.png" type="image/png">
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="welcome-section">
+            <div class="logo">
+                <img src="images/logo.png" alt="GIVA Logo">
+            </div>
+            <h1>Welcome to <span>GIVIA</span></h1>
+        </div>
+        <div class="form-section">
+            <h2>Sign Up</h2>
+            <p>Create an account to access the latest toys, games, and kids' apparel.</p>
+            <form action="/signup" method="post">
+                <div class="form-group">
+                    <input type="text" placeholder="First Name" required>
+                    <input type="text" placeholder="Last Name" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" placeholder="Email Id" required>
+                    <select required>
+                        <option value="" disabled selected>Gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <input type="tel" placeholder="+91 Phone Number" required>
+                    <input type="date" placeholder="DOB" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password" required>
+                    <input type="password" placeholder="Confirm Password" required>
+                </div>
+                <div class="form-group">
+                    <input type="checkbox" required>
+                    <label>I've read and agree with <a href="#">Terms of Service</a> and our <a href="#">Privacy Policy</a></label>
+                </div>
+                <button type="submit" class="signup-btn">Sign Up</button>
+            </form>
+            <p class="signin-text">Already have an account? <a href="user.html">Sign In</a></p>
+            <div class="divider">Or</div>
+            <div class="social-signup">
+                <button class="google-btn">
+                    <img src="images/google-logo.png" alt="Google Logo">
+                    Sign up with Google
+                </button>
+                <button class="microsoft-btn">
+                    <img src="images/microsoft-logo.png" alt="Microsoft Logo">
+                    Sign up with Microsoft
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
