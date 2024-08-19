@@ -45,3 +45,13 @@ Stock Availability Alerts: If a user tries to purchase an out-of-stock item, the
 
 
 # Some Screenshots for the project:
+* Home Page
+![Shopping Fashion Collection_page-0001](https://github.com/user-attachments/assets/e7c99b86-8ee3-4480-a5c9-36c7d8674094)
+![Shopping Fashion Collection_page-0002](https://github.com/user-attachments/assets/0451eba5-c0a4-4854-9cbb-df538170b74d)
+![Shopping Fashion Collection_page-0003](https://github.com/user-attachments/assets/c0c7f69e-8f1d-4612-9890-47655610561c)
+![Shopping Fashion Collection_page-0004](https://github.com/user-attachments/assets/9e6103a4-1d55-4dac-a7bf-f3cf3b9b79e9)
+![Shopping Fashion Collection_page-0005](https://github.com/user-attachments/assets/5d167507-c13f-4620-8500-a302cff3b917)
+
+
+
+
