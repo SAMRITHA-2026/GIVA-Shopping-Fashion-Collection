@@ -52,6 +52,10 @@ Stock Availability Alerts: If a user tries to purchase an out-of-stock item, the
 ![Shopping Fashion Collection_page-0004](https://github.com/user-attachments/assets/9e6103a4-1d55-4dac-a7bf-f3cf3b9b79e9)
 ![Shopping Fashion Collection_page-0005](https://github.com/user-attachments/assets/5d167507-c13f-4620-8500-a302cff3b917)
 
+* Login Page
+![image](https://github.com/user-attachments/assets/41cc3a56-6381-424d-94ae-21ffae43f056)
 
+* Sigup Page
+![image](https://github.com/user-attachments/assets/d2bf8d28-f3b3-4a4f-b5c7-dcaf64d08e51)
 
 
