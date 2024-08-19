@@ -38,6 +38,10 @@ Our website features automated email notifications to enhance user experience:
 Registration Confirmation: Users receive a confirmation email upon successful registration.
 
 
+*Some Screenshots for the project:*
+
+
+
 Order Updates: Users are notified via email when an order is placed and when the product is shipped.
 
 
